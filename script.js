@@ -1,51 +1,99 @@
 const card = [
     {
-    title: "Projektmerkmale",
-    image: "images/projekt_merkmale.jpg",
+    title: "Adhoc (WLAN)",
+    image: "images/adhoc.png",
     },
     {
-    title: "Erfolgsfaktoren Projekt",
-    image: "images/projekt_erfolgsfaktoren.jpg",
+    title: "Infrastructure (WLAN)",
+    image: "images/infrastructure_WLAN.png",
     },
     {
-    title: "magisches Dreieck",
-    image: "images/magischesDreieck.jpg",
+    title: "Point-to-Point WLAN",
+    image: "images/pointopoint_wlan.png",
     },
     {
-    title: "Lastenheft",
-    image: "images/lastenheft.jpg",
+    title: "DHCP Anfrage",
+    image: "images/dhcp.png",
     },
     {
-    title: "Pflichtenheft",
-    image: "images/pflichtenheft.jpg",
+    title: "DORA DHCP",
+    image: "images/dora.png",
     },
     {
-    title: "Linienorganisation",
-    image: "images/linienorga.jpg",
+    title: "DHCP Leaseerneuerung",
+    image: "images/leaseerneuerung.png",
     },
     {
-    title: "Stabsorganisation",
-    image: "images/stabsorga.jpg",
+    title: "DNS Domänen",
+    image: "images/dna.png",
     },
     {
-    title: "Matrixorganisation",
-    image: "images/matrixorga.jpg",
+    title: "DNS Namensauflösung",
+    image: "images/dns2.png",
     },
     {
-    title: "Wasserfallmodell",
-    image: "images/wasserfall.jpg",
+    title: "Simplex, Half- und Fullduplex",
+    image: "images/duplex.png",
     },
     {
-    title: "erweitertes Wasserfallmodell",
-    image: "images/wasserfall_erweitert.jpg",
+    title: "TCP Handshake",
+    image: "images/handshake.png",
     },
     {
-    title: "Spiralmodell",
-    image: "images/spiralmodell.png",
+    title: "IPv4 Header",
+    image: "images/ipv4_header.png",
     },
     {
-    title: "V-Modell",
-    image: "images/vmodell.jpg",
+    title: "IPv6 Header",
+    image: "images/ipv6_header.png",
+    },
+    {
+    title: "Vielfachzugriffverfahren",
+    image: "images/multiplex.png",
+    },
+    {
+    title: "Netzausdehnung",
+    image: "images/netzausdehnung.png",
+    },
+    {
+    title: "Netzklassen",
+    image: "images/netzklassen.png",
+    },
+    {
+    title: "OSI-Modell",
+    image: "images/osi.png",
+    },
+    {
+    title: "Ports",
+    image: "images/ports.png",
+    },
+    {
+    title: "TCP (Protokolle)",
+    image: "images/tcp.png",
+    },
+    {
+    title: "UDP (Protokolle)",
+    image: "images/udp.png",
+    },
+    {
+    title: "TCP/IP",
+    image: "images/tcp_ip.png",
+    },
+    {
+    title: "Topologien",
+    image: "images/topologien.png",
+    },
+    {
+    title: "TCP Verbindungsaufbau",
+    image: "images/verbindungsaufbau.png",
+    },
+    {
+    title: "strukturierte Verkabelung",
+    image: "images/verkabelung.png",
+    },
+    {
+    title: "Paketvermittlung/Leitungsvermittlung",
+    image: "images/vermittlung.png",
     },
 ];
 
