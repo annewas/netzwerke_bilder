@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/jpg" href="project.jpg"/>
+    <link rel="apple-touch-icon" href="project.jpg"/>
+    <title>Projektmanagement</title>
+     <style>
+        body{
+            background-color: rgb(59, 54, 54);
+        }
+        .card {
+            width: auto;
+            height: auto;
+            margin: 20px auto;
+            padding: 20px;
+            text-align: center;
+            align-content: center;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            cursor: pointer;
+            transition: transform 0.3s ease;
+            font-size: 30px;
+            background-color: rgb(185, 244, 224);
+        }
+        .card:hover {
+            transform: scale(1.05);
+        }
+
+        button{
+            width: 250px;
+            height: 70px;
+            margin: 20px auto;
+            display: block; /*Ohne diese Eigenschaft verhält sich der Button standardmäßig als Inline-Element und die auto-Ränder haben keinen Effekt auf die horizontale Positionierung*/
+            font-size: 25px;
+            background-color: rgb(249, 209, 239);
+            border-radius: 10px;
+            cursor: pointer;
+            border: none;
+            color: black;
+        }
+
+        .count{
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+   <div id="container"></div> 
+
+   <script src="script.js"></script>
+</body>
+</html>
