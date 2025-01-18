@@ -6,13 +6,13 @@
     <link rel="icon" type="image/jpg" href="netzwerk.jpg"/>
     <link rel="apple-touch-icon" href="netzwerk.jpg"/>
     <title>Netzwerke</title>
-     <style>
+      <style>
         body{
             background-color: rgb(59, 54, 54);
         }
         .card {
-            width: auto;
-            height: auto;
+            width: 300px;
+            height: 300px;
             margin: 20px auto;
             padding: 20px;
             text-align: center;
@@ -22,24 +22,25 @@
             box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
             cursor: pointer;
             transition: transform 0.3s ease;
-            font-size: 30px;
+            font-size: 20px;
             background-color: rgb(185, 244, 224);
         }
-        .card:hover {
-            transform: scale(1.05);
-        }
 
-        button{
-            width: 250px;
-            height: 70px;
-            margin: 20px auto;
-            display: block; /*Ohne diese Eigenschaft verhält sich der Button standardmäßig als Inline-Element und die auto-Ränder haben keinen Effekt auf die horizontale Positionierung*/
-            font-size: 25px;
+        button, input{
+            width: 90px;
+            height: 60px;
+            margin: 10px 10px auto;
+            display: inline-block; /*Ohne diese Eigenschaft verhält sich der Button standardmäßig als Inline-Element und die auto-Ränder haben keinen Effekt auf die horizontale Positionierung*/
+            font-size: 18px;
             background-color: rgb(249, 209, 239);
             border-radius: 10px;
             cursor: pointer;
             border: none;
             color: black;
+        }
+
+        input{
+            height: 50px;
         }
 
         .count{
@@ -53,3 +54,4 @@
    <script src="script.js"></script>
 </body>
 </html>
+
