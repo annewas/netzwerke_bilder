@@ -95,7 +95,6 @@ const card = [
     title: "Paketvermittlung/Leitungsvermittlung",
     image: "images/vermittlung.png",
     },
-    {
 ];
 
 const container = document.getElementById("container");
@@ -127,6 +126,7 @@ cardElement.addEventListener("click", () => {
 
 container.appendChild(cardElement);
 
+    //Button erstellen
 const backButton = document.createElement("button");
 backButton.textContent = "Zurück";
 //backButton.classList.add("button");
