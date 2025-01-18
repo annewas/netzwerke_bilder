@@ -95,6 +95,18 @@ const card = [
     title: "Paketvermittlung/Leitungsvermittlung",
     image: "images/vermittlung.png",
     },
+    {
+    title: "SYN-Flood",
+    image: "images/synflood.png",
+    },
+    {
+    title: "TLS",
+    image: "images/tls.png",
+    },
+    {
+    title: "Botnetz",
+    image: "images/botnetz.png",
+    },
 ];
 
 const container = document.getElementById("container");
