@@ -137,7 +137,6 @@ backButton.addEventListener("click", () => {
 
 container.appendChild(backButton);
 
-// Buttons erstellen
 const nextButton = document.createElement("button");
 nextButton.textContent = "Weiter";
 //nextButton.classList.add("button");
@@ -148,16 +147,16 @@ nextButton.addEventListener("click", () => {
 
 container.appendChild(nextButton);
 
+const inputField = document.createElement("input");
+inputField.placeholder = "Springe zu";
+inputField.pattern = "[0-9]*"; //Anzeige Zahlentastatur auf dem Handy
+inputField.addEventListener('change', (event) => {
+    currentCardIndex = parseInt(event.target.value) - 1;
+    showCard();
+}
+);
 
-
-/* container für die Buttons, damit sie nebeneinander angeordnet werden können (hier stattdessen im CSS über inline-block gelöst)
-const buttonContainer = document.createElement("div")
-buttonContainer.classList.add("buttonContainer")
-buttonContainer.appendChild(nextButton);
-buttonContainer.appendChild(backButton);
-
-container.appendChild(buttonContainer) */
-
+container.appendChild(inputField);
 
 };
 
