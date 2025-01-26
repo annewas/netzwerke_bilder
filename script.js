@@ -95,6 +95,38 @@ const card = [
     title: "Paketvermittlung/Leitungsvermittlung",
     image: "images/vermittlung.png",
     },
+    {
+    title: "DHCP Port/Sicherheit",
+    image: "images/dhcp_2.png",
+    },
+    {
+    title: "DNS Port/Sicherheit",
+    image: "images/dns2.png",
+    },
+    {
+    title: "FTP Port/Sicherheit",
+    image: "images/ftp.png",
+    },
+    {
+    title: "HTTP Port/Sicherheit",
+    image: "images/http.png",
+    },
+    {
+    title: "IMAP Port/Sicherheit",
+    image: "images/imap.png",
+    },
+    {
+    title: "POP3 Port/Sicherheit",
+    image: "images/pop3.png",
+    },
+    {
+    title: "SMTP Port/Sicherheit",
+    image: "images/smtp.png",
+    },
+    {
+    title: "TELNET Port/Sicherheit",
+    image: "images/telnet.png",
+    },
 ];
 
 const container = document.getElementById("container");
