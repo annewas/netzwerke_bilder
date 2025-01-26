@@ -101,7 +101,7 @@ const card = [
     },
     {
     title: "DNS Port/Sicherheit",
-    image: "images/dns2.png",
+    image: "images/dns_port.png",
     },
     {
     title: "FTP Port/Sicherheit",
