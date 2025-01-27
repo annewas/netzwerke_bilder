@@ -150,6 +150,7 @@ cardElement.addEventListener("click", () => {
         imgElement.src = item.image;
         imgElement.alt = item.title;
         imgElement.style.maxWidth = "100%";
+        imgElement.style.maxHeight = "90%";
         cardElement.appendChild(imgElement);
     } else {
         cardElement.innerHTML = currentCardIndex+1 + "/" + card.length + "<br>" + "<br>" + item.title;
