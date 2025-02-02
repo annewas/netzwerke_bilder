@@ -127,6 +127,18 @@ const card = [
     title: "TELNET Port/Sicherheit",
     image: "images/telnet.png",
     },
+    {
+    title: "DHCP Schritte",
+    image: "images/dhcp_schritte.png",
+    },
+    {
+    title: "Vergleich Hosting VMs",
+    image: "images/vm_hosting.png",
+    },
+    {
+    title: "parallele vs. serielle Datenübertragung",
+    image: "images/vergleich_datenübertragung.png",
+    },
 ];
 
 const container = document.getElementById("container");
