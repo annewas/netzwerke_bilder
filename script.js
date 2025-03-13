@@ -139,6 +139,98 @@ const card = [
     title: "parallele vs. serielle Datenübertragung",
     image: "images/vergleich_datenübertragung.png",
     },
+    {
+    title: "strukturierte Verkabelung",
+    image: "images/verkabelung_2.png",
+    },
+    {
+    title: "IPv4 Adressen",
+    image: "images/ipv4_adressen.png",
+    },
+    {
+    title: "IPv6 Adressen",
+    image: "images/ipv6_adressen.png",
+    },
+    {
+    title: "Aufbau IPv4 und v6",
+    image: "images/ip_vergleich.png",
+    },
+    {
+    title: "Bare Metal vs. Hosted",
+    image: "images/baremetal_hosted.png",
+    },
+    {
+    title: "Bare Metal vs. Hosted",
+    image: "images/bare_hosted.png",
+    },
+    {
+    title: "Ethernet Frame",
+    image: "images/ethernet_frame.png",
+    },
+    {
+    title: "Ethernet Techniken",
+    image: "images/techniken_ethernet.png",
+    },
+    {
+    title: "Befehle cmd",
+    image: "images/befehle.png",
+    },
+    {
+    title: "IDS/IPS",
+    image: "images/ids_ips.png",
+    },
+    {
+    title: "Server Bauarten Vergleich",
+    image: "images/tower_blase_rack.png",
+    },
+    {
+    title: "Serverarten (Funktionen)",
+    image: "images/server_arten.png",
+    },
+    {
+    title: "VPN Protokolle",
+    image: "images/vpn_protokolle.png",
+    },
+    {
+    title: "WLAN Verschlüsselung",
+    image: "images/wlan_verschlüsselung.png",
+    },
+    {
+    title: "Unique Local vs. Link Local",
+    image: "images/ula_lla.png",
+    },
+    {
+    title: "IPsec Modi",
+    image: "images/ipsec_modi.png",
+    },
+    {
+    title: "Firewall Arten",
+    image: "images/firewall_arten.png",
+    },
+    {
+    title: "Virtueller vs. physischer Server",
+    image: "images/server_virt_vs_phys.png",
+    },
+    {
+    title: "USV VFI",
+    image: "images/usv_vfi.png",
+    },
+    {
+    title: "USV VI",
+    image: "images/usv_vi.png",
+    },
+    {
+    title: "USV VFD",
+    image: "images/usv_vfd.png",
+    },
+    {
+    title: "Logikgatter",
+    image: "images/logische_schaltung.png",
+    },
+    {
+    title: "Topologien Vergleich",
+    image: "images/topologien_vergleich.png",
+    },
 ];
 
 const container = document.getElementById("container");
