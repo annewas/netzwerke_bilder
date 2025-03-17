@@ -1,5 +1,21 @@
 const card = [
     {
+    title: "Firewallarten",
+    image: "images/firewall.jpg",
+    },
+    {
+    title: "BIOS/UEFI",
+    image: "images/bios_uefi.jpg",
+    },
+    {
+    title: "Mac-Adresse",
+    image: "images/mac.jpg",
+    },
+    {
+    title: "Ports",
+    image: "images/ports_3.png",
+    },
+    {
     title: "Adhoc (WLAN)",
     image: "images/adhoc.png",
     },
