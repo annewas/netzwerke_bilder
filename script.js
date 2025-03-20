@@ -1,5 +1,21 @@
 const card = [
     {
+    title: "Adressbereiche GUA, LLA, ULA",
+    image: "images/gua_lla_ula.png",
+    },
+    {
+    title: "NAS vs SAN",
+    image: "images/san_nas.png",
+    },
+    {
+    title: "NAS vs SAN (Tabelle)",
+    image: "images/nas_san.png",
+    },
+    {
+    title: "Zeichencodierung Vergleich",
+    image: "images/zeichencodierung.png",
+    },
+    {
     title: "Firewallarten",
     image: "images/firewall.jpg",
     },
