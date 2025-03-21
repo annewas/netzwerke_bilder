@@ -193,7 +193,7 @@ const card = [
     },
     {
     title: "Bare Metal vs. Hosted",
-    image: "images/bare_hosted_2.png",
+    image: "images/baremetal_hosted_1.png",
     },
     {
     title: "Bare Metal traditionell vs Hypervior",
