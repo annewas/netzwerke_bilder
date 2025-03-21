@@ -116,10 +116,6 @@ const card = [
     image: "images/topologien.png",
     },
     {
-    title: "TCP Verbindungsabbau",
-    image: "images/verbindungsabbau.png",
-    },
-    {
     title: "strukturierte Verkabelung",
     image: "images/verkabelung.png",
     },
