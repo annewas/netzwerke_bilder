@@ -13,7 +13,7 @@ const card = [
     },
     {
     title: "Zeichencodierung Vergleich",
-    image: "images/zeichencodierung.png",
+    image: "images/zeichenkodierung.png",
     },
     {
     title: "Firewallarten",
@@ -116,8 +116,8 @@ const card = [
     image: "images/topologien.png",
     },
     {
-    title: "TCP Verbindungsaufbau",
-    image: "images/verbindungsaufbau.png",
+    title: "TCP Verbindungsabbau",
+    image: "images/verbindungsabbau.png",
     },
     {
     title: "strukturierte Verkabelung",
@@ -169,7 +169,7 @@ const card = [
     },
     {
     title: "parallele vs. serielle Datenübertragung",
-    image: "images/vergleich_datenübertragung.png",
+    image: "images/vergleich _datenübertragung.png",
     },
     {
     title: "strukturierte Verkabelung",
@@ -193,6 +193,10 @@ const card = [
     },
     {
     title: "Bare Metal vs. Hosted",
+    image: "images/bare_hosted_2.png",
+    },
+    {
+    title: "Bare Metal traditionell vs Hypervior",
     image: "images/bare_hosted.png",
     },
     {
@@ -225,7 +229,7 @@ const card = [
     },
     {
     title: "WLAN Verschlüsselung",
-    image: "images/wlan_verschlüsselung.png",
+    image: "images/wlan_verschluesselung.png",
     },
     {
     title: "Unique Local vs. Link Local",
