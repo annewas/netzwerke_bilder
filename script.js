@@ -184,11 +184,15 @@ const card = [
     image: "images/ip_vergleich.png",
     },
     {
-    title: "Bare Metal vs. Hosted",
+    title: "Bare Metal vs. Hosted Vergleich",
     image: "images/baremetal_hosted.png",
     },
     {
-    title: "Bare Metal vs. Hosted",
+    title: "Bare Metal vs. Hosted Vergleich",
+    image: "images/virtu.png",
+    },
+    {
+    title: "Bare Metal vs. Hosted Architektur",
     image: "images/baremetal_hosted_1.png",
     },
     {
