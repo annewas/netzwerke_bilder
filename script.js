@@ -24,6 +24,14 @@ const card = [
     image: "images/Cloud_NAS.png",
     },
     {
+    title: "FC-SAN vs. iSCSI-SAN",
+    image: "images/FC_iSCSI.png",
+    },
+    {
+    title: "FC-SAN vs. iSCI-SAN",
+    image: "images/fc_iscsi.png",
+    },
+    {
     title: "Zeichencodierung Vergleich",
     image: "images/zeichenkodierung.png",
     },
