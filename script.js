@@ -4,6 +4,10 @@ const card = [
     image: "images/gua_lla_ula.png",
     },
     {
+    title: "NAS Vor-/Nachteile",
+    image: "images/NAS.png",
+    },
+    {
     title: "NAS vs SAN",
     image: "images/san_nas.png",
     },
