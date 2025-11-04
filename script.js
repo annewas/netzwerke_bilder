@@ -1,5 +1,13 @@
 const card = [
     {
+    title: "SDSL, ADSL, VDSL",
+    image: "images/DSL.jpg",
+    },
+    {
+    title: "DSL, VDSL, Vectoring",
+    image: "images/DSL_VDSL_Vectoring.jpg",
+    },
+    {
     title: "Adressbereiche GUA, LLA, ULA",
     image: "images/gua_lla_ula.png",
     },
