@@ -168,6 +168,14 @@ const card = [
     image: "images/pop3.png",
     },
     {
+    title: "POP3 vs. IMAP",
+    image: "images/IMAP_POP.png",
+    },
+    {
+    title: "POP3 vs. IMAP Tabelle",
+    image: "images/POP_IMAP.png",
+    },
+    {
     title: "SMTP Port/Sicherheit",
     image: "images/smtp.png",
     },
