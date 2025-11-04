@@ -4,16 +4,24 @@ const card = [
     image: "images/gua_lla_ula.png",
     },
     {
-    title: "NAS Vor-/Nachteile",
-    image: "images/NAS.png",
-    },
-    {
     title: "NAS vs SAN",
     image: "images/san_nas.png",
     },
     {
     title: "NAS vs SAN (Tabelle)",
     image: "images/nas_san.png",
+    },
+    {
+    title: "NAS vs. SAN Tabelle",
+    image: "images/NAS_SAN.png",
+    },
+    {
+    title: "NAS Vor-/Nachteile",
+    image: "images/NAS.png",
+    },
+    {
+    title: "Lokales NAS vs. Cloud",
+    image: "images/Cloud_NAS.png",
     },
     {
     title: "Zeichencodierung Vergleich",
